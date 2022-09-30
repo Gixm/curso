@@ -1,1 +1,1 @@
-console.log("Olá")
+var nome = "Giovanna"
