@@ -1,0 +1,9 @@
+git status (pra ver qual arquivo foi alterado, antes e depois)
+
+git add "nome do arquivo" / git add . (adiciona todas alterações)
+
+git status (pra ver qual arquivo foi alterado, antes e depois)
+
+git commit -m "mensagem do que eu fiz na alteração"
+
+git push 
